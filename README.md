@@ -1,3 +1,5 @@
-### start: ./start.sh
+### 开启容器: ./start.sh
 
-### stop: docker-compose down
+### 关闭容器: docker-compose down
+
+### rockermq-console: http://127.0.0.1:8000
